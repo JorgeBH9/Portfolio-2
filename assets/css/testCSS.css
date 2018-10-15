@@ -1,0 +1,13 @@
+body {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    background: url("../images/background.jpg");
+    width: 900px;
+    height: 900px;
+}
